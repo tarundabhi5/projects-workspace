@@ -1,3 +1,3 @@
 # projects-workspace
 
-##This repository contains the small projects for practice purposes.
+## This repository contains the small projects for practice purposes.
